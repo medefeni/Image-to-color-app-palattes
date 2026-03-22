@@ -1,0 +1,22 @@
+[
+  { "id": "1", "title": "Midnight Dream", "colors": ["#0f0c29", "#302b63", "#24243e", "#4343d5", "#e1e0ff"], "tags": "5 Colors • Dark" },
+  { "id": "2", "title": "Red Velvet", "colors": ["#ffdad6", "#ba1a1a", "#93000a", "#1b1b23", "#ffffff"], "tags": "5 Colors • Classic" },
+  { "id": "3", "title": "Misty Mountains", "colors": ["#eadef2", "#cdc3d5", "#776f7f", "#5e5766", "#1f1926"], "tags": "5 Colors • Natural" },
+  { "id": "4", "title": "Ocean Breeze", "colors": ["#07006c", "#2e2bc2", "#5d5fef", "#c1c1ff", "#e1e0ff"], "tags": "5 Colors • Gradient" },
+  { "id": "5", "title": "Pastel Lavender", "colors": ["#fef6ff", "#ecdcff", "#d5baff", "#bd95fe", "#6f4aac"], "tags": "5 Colors • Soft" },
+  { "id": "6", "title": "Sunset Horizon", "colors": ["#ff6b35", "#f7931e", "#ffd166", "#ef476f", "#073b4c"], "tags": "5 Colors • Warm" },
+  { "id": "7", "title": "Forest Canopy", "colors": ["#2d6a4f", "#40916c", "#52b788", "#95d5b2", "#d8f3dc"], "tags": "5 Colors • Nature" },
+  { "id": "8", "title": "Nordic Frost", "colors": ["#caf0f8", "#90e0ef", "#48cae4", "#0096c7", "#023e8a"], "tags": "5 Colors • Cool" },
+  { "id": "9", "title": "Autumn Leaves", "colors": ["#6b2737", "#b5485d", "#d4a276", "#e6c79c", "#f2e8cf"], "tags": "5 Colors • Seasonal" },
+  { "id": "10", "title": "Neon Nights", "colors": ["#0d0221", "#0f084b", "#26408b", "#a6f0c6", "#f72585"], "tags": "5 Colors • Vibrant" },
+  { "id": "11", "title": "Sakura Bloom", "colors": ["#ffccd5", "#ffb3c1", "#ff8fa3", "#ff758f", "#c9184a"], "tags": "5 Colors • Floral" },
+  { "id": "12", "title": "Terracotta Desert", "colors": ["#e07a5f", "#f2cc8f", "#81b29a", "#3d405b", "#f4f1de"], "tags": "5 Colors • Earthy" },
+  { "id": "13", "title": "Electric Purple", "colors": ["#7400b8", "#6930c3", "#5e60ce", "#5390d9", "#48bfe3"], "tags": "5 Colors • Gradient" },
+  { "id": "14", "title": "Coffee Shop", "colors": ["#6f4e37", "#b68d5e", "#d4a574", "#e8cdb0", "#f5e6d0"], "tags": "5 Colors • Warm" },
+  { "id": "15", "title": "Arctic Aurora", "colors": ["#0b0c10", "#1f2833", "#45a29e", "#66fcf1", "#c5c6c7"], "tags": "5 Colors • Cyber" },
+  { "id": "16", "title": "Vintage Rose", "colors": ["#8e6c88", "#d4a5a5", "#ffcad4", "#b0d0d3", "#c08497"], "tags": "5 Colors • Retro" },
+  { "id": "17", "title": "Deep Sea", "colors": ["#03045e", "#0077b6", "#00b4d8", "#90e0ef", "#caf0f8"], "tags": "5 Colors • Ocean" },
+  { "id": "18", "title": "Golden Hour", "colors": ["#ffba08", "#ffc300", "#ffd60a", "#e85d04", "#dc2f02"], "tags": "5 Colors • Sunset" },
+  { "id": "19", "title": "Minimalist Gray", "colors": ["#f8f9fa", "#dee2e6", "#adb5bd", "#6c757d", "#212529"], "tags": "5 Colors • Modern" },
+  { "id": "20", "title": "Tropical Paradise", "colors": ["#06d6a0", "#1b9aaa", "#ef476f", "#ffc43d", "#264653"], "tags": "5 Colors • Tropical" }
+]
