@@ -18,7 +18,7 @@
   { "id": "17", "title": "Deep Sea", "colors": ["#03045e", "#0077b6", "#00b4d8", "#90e0ef", "#caf0f8"], "tags": "5 Colors • Ocean" },
   { "id": "18", "title": "Golden Hour", "colors": ["#ffba08", "#ffc300", "#ffd60a", "#e85d04", "#dc2f02"], "tags": "5 Colors • Sunset" },
   { "id": "19", "title": "Minimalist Gray", "colors": ["#f8f9fa", "#dee2e6", "#adb5bd", "#6c757d", "#212529"], "tags": "5 Colors • Modern" },
-  { "id": "20", "title": "Tropical Paradise", "colors": ["#06d6a0", "#1b9aaa", "#ef476f", "#ffc43d", "#264653"], "tags": "5 Colors • Tropical" }
+  { "id": "20", "title": "Tropical Paradise", "colors": ["#06d6a0", "#1b9aaa", "#ef476f", "#ffc43d", "#264653"], "tags": "5 Colors • Tropical" },
   { "id": "21", "title": "Skyline Blue", "colors": ["#0a1f44", "#123e7a", "#1f6f8b", "#99c1de", "#e0fbfc"], "tags": "5 Colors • Cool" },
   { "id": "22", "title": "Peach Glow", "colors": ["#fff1e6", "#ffd6c9", "#ffb4a2", "#e5989b", "#b5838d"], "tags": "5 Colors • Soft" },
   { "id": "23", "title": "Cyber Lime", "colors": ["#0f172a", "#1e293b", "#22c55e", "#4ade80", "#bbf7d0"], "tags": "5 Colors • Neon" },
@@ -99,5 +99,4 @@
   { "id": "98", "title": "Orange Pop", "colors": ["#fff7ed", "#ffedd5", "#fed7aa", "#fb923c", "#ea580c"], "tags": "5 Colors • Warm" },
   { "id": "99", "title": "Mint Candy", "colors": ["#ecfdf5", "#d1fae5", "#a7f3d0", "#6ee7b7", "#34d399"], "tags": "5 Colors • Fresh" },
   { "id": "100", "title": "Galaxy Night", "colors": ["#0b132b", "#1c2541", "#3a506b", "#5bc0be", "#6fffe9"], "tags": "5 Colors • Space" }
-
 ]
